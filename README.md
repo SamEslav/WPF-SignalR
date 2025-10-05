@@ -30,4 +30,7 @@ Install with:
 
 dotnet restore
 
-Translated with DeepL.com (free version)
+## Notes
+- Repository has a folder **Client2** to add an extra client
+- Solution It's configurate to startup multiple porjects
+- Application just add, delete and edit countries and number of people
